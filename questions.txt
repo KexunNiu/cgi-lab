@@ -1,0 +1,24 @@
+Question 1
+Use os library, use print(os.environ) to print environment variables in format of plain text.
+with json library, use json.dumps(dict(os.environ), indent=2) to display the evs in format of json.
+
+Question 2
+The environment variable "QUERY_STRING" contains query parameter data.
+
+Question 3
+The environment variable "HTTP_USER_AGENT" contains browser information.
+
+Question 4
+By specifying the Content-Type: text/html, and POST sends the data through standard input, so everything will be sent to the browser.
+
+Question 5
+The HTTP header syntax to set a cookie from server is "Set-Cookie: <cookie-name>=<cookie-value>"
+
+Question 6
+It is "cookie.get(<cookie-name>).value"
+
+Question 7
+A cookie is a text that stores data in the browser, such as a cookie that is automatically recognized and logged in when surfing the Internet, or is not logged out after refreshing a web page.
+
+Question 8
+https://github.com/KexunNiu/cgi-lab
