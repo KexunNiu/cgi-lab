@@ -12,8 +12,7 @@ class FollowingTheTAsInstructionsError(Exception):
         ))
 
 # Delete this line:
-raise FollowingTheTAsInstructionsError
 
 # Edit the following two lines:
-username = "<pick a username here>"
-password = "<pick a password here>"
+username = "kexun"
+password = "123"
